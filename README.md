@@ -1,5 +1,4 @@
-# Project-SCD-
-SCD project
+Foodies
 ![1](https://github.com/JavariaTanveer/Project-SCD-/assets/96641419/36492b3b-74cb-4ecb-b423-2b8f21126376)
 ![2](https://github.com/JavariaTanveer/Project-SCD-/assets/96641419/e5151793-d2c4-4c87-96a4-4d1215e7093d)
 ![3](https://github.com/JavariaTanveer/Project-SCD-/assets/96641419/0dfbd526-1b2d-4f8c-aa81-b17c391f54c9)
